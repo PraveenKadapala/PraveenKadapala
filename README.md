@@ -63,14 +63,14 @@
 <!-- Professional Experience Section -->
 <hr>
 <h2>💼 Professional Experience</h2>
-<h3>🏢 NTT DATA — <i>Digital Engineering Analyst</i> (July 2022 – December 2023)</h3>
+<h3>🏢 PRESIDIO SOlutions — <i>Digital Engineering Analyst</i> (July 2022 – August 2023)</h3>
 <ul>
     <li>🔹 Migrated large-scale data from Oracle to Snowflake using Matillion ETL.</li>
     <li>🔹 Automated ETL processes with Matillion, enhancing data pipeline efficiency.</li>
     <li>🔹 Developed error detection mechanisms to ensure data integrity across systems.</li>
 </ul>
 
-<h3>🏢 Cognizant — <i>Programmer Analyst Trainee</i> (January 2022 – June 2022)</h3>
+<h3>🏢 PRESIDIO SOlutions — <i>Programmer Analyst Trainee</i> (January 2022 – July 2022)</h3>
 <ul>
     <li>🔹 Developed database management skills using SQL and Teradata.</li>
     <li>🔹 Built foundational knowledge in MySQL, Python, and front-end technologies.</li>
@@ -85,35 +85,24 @@
     <li><strong>🔑 Random Captcha Generator:</strong> Developed a CAPTCHA generator for user verification using JavaScript and HTML.</li>
     <li><strong>🤖 Chatbot System:</strong> Designed an interactive chatbot leveraging Python and NLP libraries for user query handling.</li>
 </ul>
-
-<!-- Certifications Section -->
-<hr>
-<h2>🎖️ Certifications & Courses</h2>
-<ul>
-    <li>🟢 <strong>Databricks Lakehouse Fundamentals</strong> (Databricks, August 2022)</li>
-    <li>🟢 <strong>dbt Fundamentals</strong> (dbt Labs, August 2022)</li>
-    <li>🟢 <strong>Foundations: Data Everywhere</strong> (Google, May 2021)</li>
-    <li>🟢 <strong>React.js</strong> (Simplilearn, March 2020 – May 2020)</li>
-</ul>
-
 <!-- GitHub Stats Section -->
 <hr>
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=chinnamsettisaiprakash&show_icons=true&theme=radical" alt="Sai's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PraveenKadapala&show_icons=true&theme=radical" alt="Praveen's GitHub Stats">
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinnamsettisaiprakash&theme=radical" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenKadapala&theme=radical" alt="GitHub Streak">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnamsettisaiprakash&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenKadapala&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <!-- Let's Connect Section -->
 <hr>
 <h2>📫 Let’s Connect!</h2>
 <p>
-    <a href="mailto:saiprakash8374@gmail.com">📧 saiprakash8374@gmail.com</a><br>
-    <a href="https://linkedin.com/in/chinnamsetti-sai-prakash-21001a193">🌐 LinkedIn Profile</a><br>
-    <a href="https://github.com/chinnamsettisaiprakash">🌐 GitHub Profile</a>
+    <a href="mailto:praveenkadapala@gmail.com">📧 praveenkadapala@gmail.com</a><br>
+    <a href="https://www.linkedin.com/in/kadapala-praveen-kumar-reddy-1a0aaa173/">🌐 LinkedIn Profile</a><br>
+    <a href="https://github.com/PraveenKadapala">🌐 GitHub Profile</a>
 </p>
 
 </body>
