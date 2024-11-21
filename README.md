@@ -81,8 +81,8 @@
 <hr>
 <h2>📚 Projects</h2>
 <ul>
-    <li><strong>📝 To-Do App:</strong> Built a task management web application with task creation and completion tracking features. <em>(HTML, CSS, JavaScript)</em></li>
-    <li><strong>🔑 Random Captcha Generator:</strong> Developed a CAPTCHA generator for user verification using JavaScript and HTML.</li>
+    <li><strong> House Price Prediction</strong> Designed a regression model by optimizing performance metrics with Dimensionality Reduction, cross- validation, hyperparameter tuning and visualized results using Matplotlib and Seaborn</li>
+    <li><strong> Customer Sales Analysis using Tableau:</strong> Transformed a customer sales dataset into an interactive dashboard using Tableau to enable data- driven decision-making</li>
     <li><strong>🤖 Chatbot System:</strong> Designed an interactive chatbot leveraging Python and NLP libraries for user query handling.</li>
 </ul>
 <!-- GitHub Stats Section -->
