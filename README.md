@@ -63,14 +63,14 @@
 <!-- Professional Experience Section -->
 <hr>
 <h2>💼 Professional Experience</h2>
-<h3>🏢 PRESIDIO SOlutions — <i>Digital Engineering Analyst</i> (July 2022 – August 2023)</h3>
+<h3>🏢 PRESIDIO Solutions — <i>Digital Engineering Analyst</i> (July 2022 – August 2023)</h3>
 <ul>
     <li>🔹 Migrated large-scale data from Oracle to Snowflake using Matillion ETL.</li>
     <li>🔹 Automated ETL processes with Matillion, enhancing data pipeline efficiency.</li>
     <li>🔹 Developed error detection mechanisms to ensure data integrity across systems.</li>
 </ul>
 
-<h3>🏢 PRESIDIO SOlutions — <i>Programmer Analyst Trainee</i> (January 2022 – July 2022)</h3>
+<h3>🏢 PRESIDIO Solutions — <i>Programmer Analyst Trainee</i> (January 2022 – July 2022)</h3>
 <ul>
     <li>🔹 Developed database management skills using SQL and Teradata.</li>
     <li>🔹 Built foundational knowledge in MySQL, Python, and front-end technologies.</li>
@@ -82,7 +82,7 @@
 <h2>📚 Projects</h2>
 <ul>
         <li><strong> Customer Sales Analysis using Tableau:</strong> Transformed a customer sales dataset into an interactive dashboard using Tableau to enable data- driven decision-making</li>
-    <li><strong> House Price Prediction</strong> Designed a regression model by optimizing performance metrics with Dimensionality Reduction, cross- validation, hyperparameter tuning and visualized results using Matplotlib and Seaborn</li>
+    <li><strong> House Price Prediction:</strong> Designed a regression model by optimizing performance metrics with Dimensionality Reduction, cross- validation, hyperparameter tuning and visualized results using Matplotlib and Seaborn</li>
     <li><strong>🤖 Chatbot System:</strong> Designed an interactive chatbot leveraging Python and NLP libraries for user query handling.</li>
 </ul>
 <!-- GitHub Stats Section -->
