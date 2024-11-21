@@ -1,5 +1,6 @@
-## Hi there 👋
+👋 Hello, World! I'm Sai Prakash Chinnamsetti
 
+🎓 Master’s in Computer Science | 📍 University of Missouri-Kansas City | Expected Graduation: May 2025
 <!--
 **PraveenKadapala/PraveenKadapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
