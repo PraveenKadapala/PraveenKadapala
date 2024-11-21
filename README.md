@@ -1,4 +1,4 @@
-👋 Hello, World! I'm Sai Prakash Chinnamsetti
+**👋 Hello, World! I'm Praveen Kumar Reddy Kadapala**
 
 🎓 Master’s in Computer Science | 📍 University of Missouri-Kansas City | Expected Graduation: May 2025
 <!--
